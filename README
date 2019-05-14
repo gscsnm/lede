@@ -1,5 +1,8 @@
 ﻿Welcome to Lean's  git source of OpenWrt and packages
 
+神秘代码：
+echo 0xDEADBEEF > /etc/config/google_fu_mode
+
 中文：如何编译自己需要的 OpenWrt 固件
 
 注意：
